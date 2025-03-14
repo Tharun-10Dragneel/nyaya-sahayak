@@ -1,6 +1,6 @@
 # Nyaya Sahayak
 
-AI-powered multilingual IVR system for legal assistance, developed for the Bhasha Bandhu Hackathon.
+AI-powered multilingual IVR system for legal assistance.
 
 ## Features
 
