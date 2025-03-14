@@ -22,10 +22,10 @@ AI-powered multilingual IVR system for legal assistance, developed for the Bhash
 1. Clone the repository
 2. Install dependencies: \`pip install -r requirements.txt\`
 3. Configure environment variables in \`.env\` file
-4. Run the application: \`python run.py\`
+4. Run the application: \`python -m app.main\`
 EOF
 
 # Add and commit README
-git add README.md
-git commit -m "Add README with project description"
-git push
+- git add README.md
+- git commit -m "Add README with project description"
+- git push
